@@ -1,0 +1,47 @@
+;;
+;; Domain:     domainku.com.
+;; Exported:   2020-08-26 04:36:52
+;;
+;; This file is intended for use for informational and archival
+;; purposes ONLY and MUST be edited before use on a production
+;; DNS server.  In particular, you must:
+;;   -- update the SOA record with the correct authoritative name server
+;;   -- update the SOA record with the contact e-mail address information
+;;   -- update the NS record(s) with the authoritative name servers for this domain.
+;;
+;; For further information, please consult the BIND documentation
+;; located on the following website:
+;;
+;; http://www.isc.org/
+;;
+;; And RFC 1035:
+;;
+;; http://www.ietf.org/rfc/rfc1035.txt
+;;
+;; Please note that we do NOT offer technical support for any use
+;; of this zone data, the BIND name server, or any other third-party
+;; DNS software.
+;;
+;; Use at your own risk.
+;; SOA Record
+domainku.com.	3600	IN	SOA	domainku.com. root.domainku.com. 2035008321 7200 3600 86400 3600
+
+;; A Records
+*.domainku.com.	1	IN	A	91.121.134.10
+*.domainku.com.	1	IN	A	46.105.32.18
+*.domainku.com.	1	IN	A	178.32.49.193
+*.domainku.com.	1	IN	A	91.134.127.85
+*.domainku.com.	1	IN	A	5.135.58.96
+*.domainku.com.	1	IN	A	51.91.163.5
+*.domainku.com.	1	IN	A	51.91.163.6
+*.domainku.com.	1	IN	A	5.135.175.230
+*.domainku.com.	1	IN	A	5.135.175.254
+*.domainku.com.	1	IN	A	37.187.190.165
+*.domainku.com.	1	IN	A	178.33.84.54
+*.domainku.com.	1	IN	A	178.32.227.91
+*.domainku.com.	1	IN	A	5.196.115.163
+*.domainku.com.	1	IN	A	164.132.119.28
+*.domainku.com.	1	IN	A	51.75.107.33
+*.domainku.com.	1	IN	A	79.137.50.182
+*.domainku.com.	1	IN	A	164.132.119.45
+domainku.com.	1	IN	A	91.121.134.10
